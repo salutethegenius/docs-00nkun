@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://test.kaneable.com/sitemap.xml
